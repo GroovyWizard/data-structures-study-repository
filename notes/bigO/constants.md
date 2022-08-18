@@ -19,3 +19,8 @@ proportion of the data. This is true even when the steps are 100N. O(N2) tells
 a different story—one of exponential growth."
 
 --Common Sense Guide to DSA,page 73.
+
+"Big O Notation only takes into account the highest order of N when we have
+multiple orders added together."
+
+--Common Sense Guide to DSA, page 87.
